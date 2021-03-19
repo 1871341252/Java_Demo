@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2643" started-at="2021-03-18T06:09:23Z" finished-at="2021-03-18T06:09:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2643" started-at="2021-03-18T06:09:23Z" finished-at="2021-03-18T06:09:25Z">
+      <class name="runapi.Run">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="632" started-at="2021-03-18T14:09:23Z" data-provider="datas" finished-at="2021-03-18T14:09:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=15192860615&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="253" started-at="2021-03-18T14:09:24Z" data-provider="datas" finished-at="2021-03-18T14:09:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=18660953805&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="203" started-at="2021-03-18T14:09:24Z" data-provider="datas" finished-at="2021-03-18T14:09:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=18660953805&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="117" started-at="2021-03-18T14:09:24Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=15192860615&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="97" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=18660953805&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="114" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=18660953805&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="94" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=15192860615&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="107" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=18660953805&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="96" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=18660953805&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="103" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://192.168.50.11:8095/api/app/login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[username=15192860615&password=888888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- runapi.Run -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
