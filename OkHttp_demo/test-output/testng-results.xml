@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="测试TestNG" duration-ms="70" started-at="2021-03-22T03:04:39Z" finished-at="2021-03-22T03:04:40Z">
+    <groups>
+    </groups>
+    <test name="模块1" duration-ms="70" started-at="2021-03-22T03:04:39Z" finished-at="2021-03-22T03:04:40Z">
+      <class name="testng_demo.Demo2">
+        <test-method status="PASS" signature="test3()[pri:0, instance:testng_demo.Demo2@3c419631]" name="test3" duration-ms="4" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- testng_demo.Demo2 -->
+      <class name="testng_demo.Demo1">
+        <test-method status="PASS" signature="f1()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f1" is-config="true" duration-ms="11" started-at="2021-03-22T11:04:39Z" finished-at="2021-03-22T11:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f3" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:39Z" finished-at="2021-03-22T11:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method status="PASS" signature="f5()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f5" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:39Z" finished-at="2021-03-22T11:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f5 -->
+        <test-method status="PASS" signature="f7()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f7" is-config="true" duration-ms="4" started-at="2021-03-22T11:04:39Z" finished-at="2021-03-22T11:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f7 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="test2" duration-ms="8" started-at="2021-03-22T11:04:39Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="f8()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f8" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f8 -->
+        <test-method status="PASS" signature="f7()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f7" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f7 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="test1" duration-ms="3" started-at="2021-03-22T11:04:40Z" description="test...." depends-on-methods="testng_demo.Demo1.test2" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="f8()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f8" is-config="true" duration-ms="7" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f8 -->
+        <test-method status="PASS" signature="f6()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f6" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f6 -->
+        <test-method status="PASS" signature="f4()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f4" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:testng_demo.Demo1@3ba9ad43]" name="f2" is-config="true" duration-ms="0" started-at="2021-03-22T11:04:40Z" finished-at="2021-03-22T11:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- testng_demo.Demo1 -->
+    </test> <!-- 模块1 -->
+  </suite> <!-- 测试TestNG -->
+</testng-results>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="测试TestNG" parallel="false">
+	<test name="模块1">
+		<classes>
+			<class name="testng_demo.Demo3"/>
+		</classes>
+	</test>
+	<parameter name="firstname" value="123"/>
+	<parameter name="lastname" value="456"/>
+</suite>
