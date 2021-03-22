@@ -13,8 +13,6 @@ public class Run {
 	// 如果数据在其他类
 	// @Test(dataProviderClass = "写入其他类的路径")
 	public void testlogin(String url, String params) throws Exception {
-		// String url="http://192.168.50.11:8095/api/app/login";
-		// String params="username=18025381412&password=123456789";
 		HttpUtils.formPost(url, params);
 //		System.out.println(datas());
 	}

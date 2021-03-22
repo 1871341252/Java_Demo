@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2643" started-at="2021-03-18T06:09:23Z" finished-at="2021-03-18T06:09:25Z">
+  <suite name="Default suite" duration-ms="2686" started-at="2021-03-19T06:34:16Z" finished-at="2021-03-19T06:34:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2643" started-at="2021-03-18T06:09:23Z" finished-at="2021-03-18T06:09:25Z">
+    <test name="Default test" duration-ms="2686" started-at="2021-03-19T06:34:16Z" finished-at="2021-03-19T06:34:19Z">
       <class name="runapi.Run">
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="632" started-at="2021-03-18T14:09:23Z" data-provider="datas" finished-at="2021-03-18T14:09:24Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="632" started-at="2021-03-19T14:34:17Z" data-provider="datas" finished-at="2021-03-19T14:34:18Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="253" started-at="2021-03-18T14:09:24Z" data-provider="datas" finished-at="2021-03-18T14:09:24Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="119" started-at="2021-03-19T14:34:18Z" data-provider="datas" finished-at="2021-03-19T14:34:18Z">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="203" started-at="2021-03-18T14:09:24Z" data-provider="datas" finished-at="2021-03-18T14:09:24Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="129" started-at="2021-03-19T14:34:18Z" data-provider="datas" finished-at="2021-03-19T14:34:18Z">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="117" started-at="2021-03-18T14:09:24Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="290" started-at="2021-03-19T14:34:18Z" data-provider="datas" finished-at="2021-03-19T14:34:18Z">
           <params>
             <param index="0">
               <value>
@@ -71,7 +71,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="97" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="118" started-at="2021-03-19T14:34:18Z" data-provider="datas" finished-at="2021-03-19T14:34:18Z">
           <params>
             <param index="0">
               <value>
@@ -87,7 +87,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="114" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="134" started-at="2021-03-19T14:34:18Z" data-provider="datas" finished-at="2021-03-19T14:34:18Z">
           <params>
             <param index="0">
               <value>
@@ -103,7 +103,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="94" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="95" started-at="2021-03-19T14:34:18Z" data-provider="datas" finished-at="2021-03-19T14:34:19Z">
           <params>
             <param index="0">
               <value>
@@ -119,7 +119,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="107" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="86" started-at="2021-03-19T14:34:19Z" data-provider="datas" finished-at="2021-03-19T14:34:19Z">
           <params>
             <param index="0">
               <value>
@@ -135,7 +135,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="96" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="105" started-at="2021-03-19T14:34:19Z" data-provider="datas" finished-at="2021-03-19T14:34:19Z">
           <params>
             <param index="0">
               <value>
@@ -151,7 +151,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin -->
-        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="103" started-at="2021-03-18T14:09:25Z" data-provider="datas" finished-at="2021-03-18T14:09:25Z">
+        <test-method status="PASS" signature="testlogin(java.lang.String, java.lang.String)[pri:0, instance:runapi.Run@1810399e]" name="testlogin" duration-ms="115" started-at="2021-03-19T14:34:19Z" data-provider="datas" finished-at="2021-03-19T14:34:19Z">
           <params>
             <param index="0">
               <value>
