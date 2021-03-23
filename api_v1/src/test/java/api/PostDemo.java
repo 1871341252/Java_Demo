@@ -27,7 +27,7 @@ public class PostDemo {
 		// post请求用josn形式传参
 		// post.setHeader("Content-Type","application/json");
 		// post.setEntity(new
-		// StringEntity("{\"username\":\"18025381412\",\"password\":\"888888\"}"));
+		// StringEntity("{\"username\":\"yangjie\",\"password\":\"123456789\"}"));
 		// 创建客户端（用于发送请求）
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		// 记录发送请求前的时间
