@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="testng_demo.Demo4">
+      <class name="cases.LoginCases">
         <methods>
-          <include name="test5"/>
+          <include name="testRegist" invocation-numbers="0"/>
         </methods>
-      </class> <!-- testng_demo.Demo4 -->
+      </class> <!-- cases.LoginCases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
